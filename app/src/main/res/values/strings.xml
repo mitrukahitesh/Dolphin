@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Dolphin</string>
+    <string name="thismonth">This Month</string>
+    <string name="history">History</string>
+    <string name="received">Received</string>
+    <string name="paid">Paid</string>
+    <string name="against">Against</string>
+    <string name="amt">Amount</string>
+</resources>
